@@ -1,0 +1,12 @@
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\bin\Debug\net8.0\BookStoreBook.Models.deps.json
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\bin\Debug\net8.0\BookStoreBook.Models.dll
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\bin\Debug\net8.0\BookStoreBook.Models.pdb
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\BookStoreBook.Models.csproj.AssemblyReference.cache
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\BookStoreBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\BookStoreBook.Models.AssemblyInfoInputs.cache
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\BookStoreBook.Models.AssemblyInfo.cs
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\BookStoreBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\BookStoreBook.Models.dll
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\refint\BookStoreBook.Models.dll
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\BookStoreBook.Models.pdb
+C:\Users\g.j.kumar.singh\Desktop\.net\BookStore_MVC-master\BookStore_MVC-master\BookStore.Models\obj\Debug\net8.0\ref\BookStoreBook.Models.dll
